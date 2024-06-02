@@ -1,1 +1,1 @@
-# TODO list app written in Rust using json to store todos
+# TODO list app written in Rust

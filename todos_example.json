@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "username": "Griffin",
+            "todos": [
+                {
+                    "text": "This is a new task",
+                    "done": "false"
+                },
+                {
+                    "text": "This is a new task (again)",
+                    "done": "true"
+                }
+            ]
+            
+        }
+    ]
+}
